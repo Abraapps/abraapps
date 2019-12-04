@@ -13,7 +13,7 @@ How to play:
 
 Tame the rolling ball and color unique pictures. Give your mind a break with Twist Color Ball Around!
 
-Contact us at abra.games.studio[at]gmial.com
+Contact us at abra.games.studio[at]gmail.com
 
 <a href="https://itunes.apple.com/us/app/id1484762734">
 <img class="app-store-badge" src="./app-store-icon.png">
