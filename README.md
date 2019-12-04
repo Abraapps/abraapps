@@ -10,4 +10,8 @@ How to play:
 * Unlock all 500+ levels 
 * Enjoy increasing difficulty. 
 
-Tame the rolling ball and color unique pictures. Give your mind a break with Twist Color Ball Around! 
+Tame the rolling ball and color unique pictures. Give your mind a break with Twist Color Ball Around!
+
+<a href="https://itunes.apple.com/us/app/id1453020905">
+<img class="app-store-badge" src="./app-store.png">
+</a>
