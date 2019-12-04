@@ -1,25 +1,13 @@
+# Welcome to Twist Color Ball Around!
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Welcome to Word Scanner!</title>
- 
-</head>
+Enjoy unique coloring experience! Swipe the board to fill up the lines with color and reveal the images. 
 
-<body>
-    <div class="body">
-        <div class="center">
-            <div>
-                <p>WORD SCANNER</p>
-                <div class="singbot-accent-text">
-                    <p>SCAN FAST</p>
-                    <p>IN EASY STEPS</p>
-                </div>
-                <a href="https://itunes.apple.com/us/app/id1453020905">
-                    <img class="app-store-badge" src="./app-store.png" alt="Download Word Scanner on the App Store">
-                </a>
-            </div>
-        </div>
-    </div>
+How to play:
 
+* Swipe the board to rotate it 
+* Move the ball to fill up the lines
+* Color the outline to reveal the picture
+* Unlock all 500+ levels 
+* Enjoy increasing difficulty. 
 
-
-</body></html>
+Tame the rolling ball and color unique pictures. Give your mind a break with Twist Color Ball Around! 
