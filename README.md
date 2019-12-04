@@ -12,6 +12,8 @@ How to play:
 
 Tame the rolling ball and color unique pictures. Give your mind a break with Twist Color Ball Around!
 
+Download on the App Store!
+
 <a href="https://itunes.apple.com/us/app/id1453020905">
 <img class="app-store-badge" src="./app-store.png">
 </a>
