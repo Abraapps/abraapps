@@ -1,11 +1,7 @@
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Welcome to Word Scanner!</title>
-    
-    <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=0.5, minimum-scale=0.5, maximum-scale=2.0">
-    <link rel="stylesheet" href="./index.css">
-         <link rel="shortcut icon" href="./favicon.png">
-
+ 
 </head>
 
 <body>
